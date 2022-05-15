@@ -1,3 +1,3 @@
 # surveyForm
-* created a survey form for a it course
-* you can reach the site [here](https://m-burak-yilmazer.github.io/surveyForm/)
+* Created a survey form for a course
+* You can reach the site fron [-here-](https://m-burak-yilmazer.github.io/surveyForm/)
